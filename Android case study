@@ -1,0 +1,27 @@
+Android Case Study:
+Development Model:
+
+	1.	Android is made by a group of people from all around the world who work together. Think of it like a big team effort.
+	2.	These people share the “recipe” (code) for Android so others can see it and help make it better. It’s kind of like sharing a recipe for a delicious meal with your friends.
+  3.  Android follows an open-source development model, with contributions from developers worldwide.
+  4.  The Android Open Source Project (AOSP) serves as the core repository where the Android source code is made available for free. Google, as the primary contributor, manages AOSP and releases major versions of Android.
+
+Licensing: 
+  1. Android uses the Apache License 2.0 for AOSP. This open-source license allows anyone to modify, distribute, and use the Android source code freely. However, Google also offers Google 
+Mobile Services (GMS), a suite of proprietary apps and services (e.g., Gmail, Google Maps) with a different licensing model. Manufacturers must meet certain requirements and licensing 
+agreements to use GMS, which is not open-source.
+
+Mode of Funding:
+
+	1.	The main company behind Android is Google. They make money when people use Google Search and other Google stuff on Android devices.
+	2.	Google also works with companies who make Android phones, and they might pay Google to use some of Google’s services, like the Google Play Store.
+
+Commercial Use:
+
+	1.	Many companies use Android to make smartphones and tablets that they sell to people.
+	2.	They can make money by selling these devices and sometimes by selling apps, games, or services through the Google Play Store.
+
+Non-Commercial Use:
+
+	1.	Some people, like students or hobbyists, use Android to make cool things without making money. They might create apps or projects just for fun or to learn.
+	2.	Educational institutions and nonprofit organizations might also use Android for educational or community projects.
