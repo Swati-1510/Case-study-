@@ -1,0 +1,16 @@
+1). Developmental Models:
+   - The GNU (GNU's Not Unix) project, initiated by Richard Stallman in 1983, follows a collaborative and open-source developmental model.
+   - It encourages a community-driven approach, where developers from around the world can contribute to the development of free software.
+
+2). Licensing:
+   - GNU software is typically licensed under the GNU General Public License (GPL).
+   - The GPL is a copyleft license that ensures that derivative works must also be open-source and distributed under the same terms. It promotes the free sharing and modification of software.
+
+3). Mode of Funding:
+   - The GNU project relies on various sources of funding, primarily through donations and contributions from individuals, organizations, and companies that support the principles of free software.
+   - The Free Software Foundation (FSF), founded by Richard Stallman, plays a key role in advocating for and supporting GNU projects.
+
+4). Commercial/Non-Commercial Use:
+   - GNU software can be used for both commercial and non-commercial purposes.
+   - While companies can utilize GNU software in their products or services, they must comply with the GPL, which may require them to open-source their modifications if they distribute the software.
+   - Many commercial entities do use GNU software, often contributing back to the community by releasing improvements and bug fixes.
