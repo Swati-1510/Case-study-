@@ -1,0 +1,11 @@
+1) Understanding the Developmental Models:
+   - GitHub operates on a collaborative and distributed development model. It's a platform that helps developers work together on software projects. Developers from around the world can contribute to projects by submitting changes called "pull requests." This collaborative approach allows for rapid software development and community-driven innovation.
+
+2) Licensing:
+   - GitHub primarily hosts open-source projects, which means the software's source code is freely available for anyone to view, use, modify, and distribute. GitHub itself is not a software license; it's a platform where projects with various licenses (e.g., MIT, GNU GPLv3) are hosted. Developers can choose the license that suits their project's goals and restrictions.
+
+3) Mode of Funding:
+   - GitHub provides hosting for public repositories for free. They generate revenue through various paid services, like private repositories, advanced collaboration tools, and enterprise solutions. Additionally, GitHub is owned by Microsoft, which contributes to its financial stability. They also have a GitHub Sponsors program that allows users to financially support specific open-source projects hosted on the platform.
+
+4) Commercial/Non-Commercial Use:
+   - GitHub is widely used by both commercial and non-commercial entities. Many businesses and organizations use GitHub to collaborate on proprietary and open-source projects. Commercial users often opt for GitHub's paid services to manage their code privately. On the other hand, non-commercial users, including individual developers, students, and open-source enthusiasts, can use GitHub for free to host and collaborate on their projects.
